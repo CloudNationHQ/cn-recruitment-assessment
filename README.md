@@ -61,8 +61,6 @@ You will:
 - Use **AI** to help your workflow (review, explain, or extract insight).
 - **Present** your approach and recommendations clearly and concisely.
 
----
-
 ## 5. Scope, time & deliverables (±16 hours total)
 
 We don’t expect a production‑grade system. Pick an achievable slice that demonstrates good judgement.
@@ -91,7 +89,6 @@ We don’t expect a production‑grade system. Pick an achievable slice that dem
 - **AI Log Insights Helper** — summarise app/infra logs and suggest likely next steps.
 
 > Minimal working examples are fine. Show how you would feed context to an LLM and use the response.
-
 
 ## 6. How we assess
 
