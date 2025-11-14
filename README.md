@@ -1,11 +1,26 @@
 # CloudNation – Consultant Assessment (Cloud & AI)
-**Last update:** 12 November 2025
+**Last update:** 14 November 2025
+
+
+```
+          ZZZZZZZZZZZZZZ           ZZZZZZZZZZZZZZ            ZZZZZZZZZZZ   ZZZZ         ZZZZZZZZZZZ    ZZZZZ    ZZZZ   ZZZZZZZZZZZZ
+      ZZZZZZZZZZZZZZZZZZ              ZZZZZZZZZZZ           ZZZZZZZZZZZZ   ZZZZ        ZZZZZZZZZZZZZZ  ZZZZZ    ZZZZ   ZZZZZZZZZZZZZ
+    ZZZZZZZZZZZZZZZZZZZZ                ZZZZZZZZZ          ZZZZZ           ZZZZ       ZZZZZ      ZZZZ  ZZZZZ    ZZZZ   ZZZZ     ZZZZ
+   ZZZZZZZZZZZZZZZZZZZZZ                   ZZZZZZ           ZZZZZZZZZZZZ   ZZZZZZZZZZ  ZZZZZZZZZZZZZZ   ZZZZZZZZZZZZ   ZZZZZZZZZZZZZ
+   ZZZZZZZZZZZZZ                              ZZZ            ZZZZZZZZZZZ   ZZZZZZZZZZZ  ZZZZZZZZZZZ      ZZZZZZZZZZ    ZZZZZZZZZZZ
+   ZZZZZZZZZZZ
+   ZZZZZZZZZZZZZ                   ZZ                       ZZZZZ    ZZZZ       ZZZZZ    ZZZZZZZZZZZZZ  ZZZZ    ZZZZZZZZZZZZ    ZZZZZ    ZZZZ
+    ZZZZZZZZZZZZZZZZZZZZ           ZZZZZ                    ZZZZZZZ  ZZZZ     ZZZZZZZZ    ZZZZZZZZZZZZ  ZZZZ   ZZZZZZZZZZZZZZ   ZZZZZZZ  ZZZZ
+     ZZZZZZZZZZZZZZZZZZZ           ZZZZZZZZ                 ZZZZZZZZZZZZZ    ZZZZZ ZZZZZ     ZZZZZ      ZZZZ   ZZZZ      ZZZZZ  ZZZZZZZZZZZZZ
+       ZZZZZZZZZZZZZZZZZ           ZZZZZZZZZZZ              ZZZZ ZZZZZZZZ   ZZZZZZZZZZZZZ    ZZZZZ      ZZZZ   ZZZZZZZZZZZZZZ   ZZZZ ZZZZZZZZ
+          ZZZZZZZZZZZZZZ           ZZZZZZZZZZZZZ            ZZZZ   ZZZZZZ  ZZZZZ     ZZZZZ   ZZZZZ      ZZZZ     ZZZZZZZZZZZ    ZZZZ    ZZZZZ
+```
 
 ---
 
 ## 1. Purpose
 
-At CloudNation, we help organizations accelerate with **public cloud** and **AI**. We combine deep technical expertise with a no‑nonsense, people‑first mindset. This first‑stage assessment is scoped for **~16 hours** and evaluates how you think and operate as a **consultant** — not just how you build.
+At CloudNation, we help organizations accelerate with **public cloud** and **AI**. We combine deep technical expertise with a no‑nonsense, people‑first mindset. This first‑stage assessment evaluates how you think and operate as a **consultant** — not just how you build.
 
 We want to see how you:
 
@@ -61,7 +76,7 @@ You will:
 - Use **AI** to help your workflow (review, explain, or extract insight).
 - **Present** your approach and recommendations clearly and concisely.
 
-## 5. Scope, time & deliverables (±16 hours total)
+## 5. Scope & deliverables
 
 We don’t expect a production‑grade system. Pick an achievable slice that demonstrates good judgement.
 
